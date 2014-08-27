@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressTextView">
+        <attr name="font" format="string" />
+        <attr name="anim" format="reference"></attr>
+    </declare-styleable>
+
+</resources>
